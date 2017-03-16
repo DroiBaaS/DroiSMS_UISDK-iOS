@@ -1,0 +1,6 @@
+framework module DroiSMS_UI {
+  umbrella header "DroiSMS_UI.h"
+
+  export *
+  module * { export * }
+}
