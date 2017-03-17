@@ -17,5 +17,7 @@ s.requires_arc = true
 s.vendored_frameworks = "**/DroiSMS_UI.framework"
 s.resources = "**/*.{bundle}"
 s.frameworks = 'Foundation','UIKit'
-s.dependency 'DroiCoreSDK','DroiSMSSDK','MBProgressHUD'
+s.dependency 'DroiCoreSDK'
+s.dependency 'DroiSMSSDK'
+s.dependency 'MBProgressHUD'
 end
