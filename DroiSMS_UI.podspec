@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "DroiSMS_UI"
-s.version          = "0.0.2"
+s.version          = "0.0.3"
 s.summary          = "卓易短信 SDK UI界面版"
 s.description      = "帮助开发者快速集成短信验证功能"
 s.homepage         = "https://github.com/DroiBaaS"
